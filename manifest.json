@@ -4,7 +4,7 @@
     "A": {
       "name": "A模版",
       "light": {
-        "version": "A_LIGHT_1001",
+        "version": "A_LIGHT_1002",
         "package": "A/light.zip"
       },
       "dark": {
