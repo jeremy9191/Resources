@@ -1,0 +1,38 @@
+{
+  "version": "20260921",
+  "templates": {
+    "A": {
+      "name": "A模版",
+      "light": {
+        "version": "A_LIGHT_1001",
+        "package": "A/light.zip"
+      },
+      "dark": {
+        "version": "A_DARK_1001",
+        "package": "A/dark.zip"
+      }
+    },
+    "B": {
+      "name": "B模版",
+      "light": {
+        "version": "B_LIGHT_1001",
+        "package": "B/light.zip"
+      },
+      "dark": {
+        "version": "B_DARK_1001",
+        "package": "B/dark.zip"
+      }
+    },
+    "C": {
+      "name": "C模版",
+      "light": {
+        "version": "C_LIGHT_1001",
+        "package": "C/light.zip"
+      },
+      "dark": {
+        "version": "C_DARK_1001",
+        "package": "C/dark.zip"
+      }
+    }
+  }
+}
